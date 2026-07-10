@@ -1,0 +1,14 @@
+{
+  "name": "Sunwell Farms Olive Oil",
+  "brand": "Sunwell Farms",
+  "category": "Grocery",
+  "price": 23.77,
+  "rating": 4.9,
+  "description": "The Sunwell Farms Olive Oil is a top pick in grocery, known for sustainably sourced and gluten-free. Customers say it delivers great value at $23.77 with a 4.9/5 average rating.",
+  "features": [
+    "sustainably sourced",
+    "gluten-free",
+    "organic"
+  ],
+  "in_stock": false
+}

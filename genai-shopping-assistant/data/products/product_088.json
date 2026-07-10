@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Trail Mix",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 19.86,
+  "rating": 3.7,
+  "description": "The Nutrivo Trail Mix is a top pick in grocery, known for organic and no added sugar. Customers say it delivers great value at $19.86 with a 3.7/5 average rating.",
+  "features": [
+    "organic",
+    "no added sugar",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

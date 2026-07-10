@@ -1,0 +1,14 @@
+{
+  "name": "OakAndIron Coffee Maker",
+  "brand": "OakAndIron",
+  "category": "Home",
+  "price": 357.37,
+  "rating": 3.8,
+  "description": "The OakAndIron Coffee Maker is a top pick in home, known for easy to clean and app controlled. Customers say it delivers great value at $357.37 with a 3.8/5 average rating.",
+  "features": [
+    "easy to clean",
+    "app controlled",
+    "energy efficient"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CircuitOne Bluetooth Speaker",
+  "brand": "CircuitOne",
+  "category": "Electronics",
+  "price": 90.56,
+  "rating": 3.7,
+  "description": "The CircuitOne Bluetooth Speaker is a top pick in electronics, known for HD display and touch controls. Customers say it delivers great value at $90.56 with a 3.7/5 average rating.",
+  "features": [
+    "HD display",
+    "touch controls",
+    "fast charging"
+  ],
+  "in_stock": true
+}

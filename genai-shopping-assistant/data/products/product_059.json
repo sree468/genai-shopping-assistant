@@ -1,0 +1,14 @@
+{
+  "name": "LumenLiving Robot Vacuum",
+  "brand": "LumenLiving",
+  "category": "Home",
+  "price": 84.0,
+  "rating": 4.1,
+  "description": "The LumenLiving Robot Vacuum is a top pick in home, known for quiet operation and eco-friendly materials. Customers say it delivers great value at $84.00 with a 4.1/5 average rating.",
+  "features": [
+    "quiet operation",
+    "eco-friendly materials",
+    "easy to clean"
+  ],
+  "in_stock": true
+}

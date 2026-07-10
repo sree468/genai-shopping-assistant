@@ -1,0 +1,14 @@
+{
+  "name": "StrideCo Leather Wallet",
+  "brand": "StrideCo",
+  "category": "Fashion",
+  "price": 180.43,
+  "rating": 4.5,
+  "description": "The StrideCo Leather Wallet is a top pick in fashion, known for machine washable and breathable fabric. Customers say it delivers great value at $180.43 with a 4.5/5 average rating.",
+  "features": [
+    "machine washable",
+    "breathable fabric",
+    "slim fit"
+  ],
+  "in_stock": true
+}

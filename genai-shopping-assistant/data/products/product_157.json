@@ -1,0 +1,14 @@
+{
+  "name": "TrailBound Hiking Backpack",
+  "brand": "TrailBound",
+  "category": "Sports",
+  "price": 271.36,
+  "rating": 4.6,
+  "description": "The TrailBound Hiking Backpack is a top pick in sports, known for weatherproof and quick-dry material. Customers say it delivers great value at $271.36 with a 4.6/5 average rating.",
+  "features": [
+    "weatherproof",
+    "quick-dry material",
+    "lightweight"
+  ],
+  "in_stock": false
+}

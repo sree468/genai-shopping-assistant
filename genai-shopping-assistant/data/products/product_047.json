@@ -1,0 +1,14 @@
+{
+  "name": "Wonderworks Board Game",
+  "brand": "Wonderworks",
+  "category": "Toys",
+  "price": 61.32,
+  "rating": 4.0,
+  "description": "The Wonderworks Board Game is a top pick in toys, known for durable design and encourages creativity. Customers say it delivers great value at $61.32 with a 4.0/5 average rating.",
+  "features": [
+    "durable design",
+    "encourages creativity",
+    "educational"
+  ],
+  "in_stock": true
+}

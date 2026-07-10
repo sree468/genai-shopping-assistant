@@ -1,0 +1,14 @@
+{
+  "name": "Sunwell Farms Dark Chocolate Bar",
+  "brand": "Sunwell Farms",
+  "category": "Grocery",
+  "price": 8.15,
+  "rating": 3.4,
+  "description": "The Sunwell Farms Dark Chocolate Bar is a top pick in grocery, known for no added sugar and non-GMO. Customers say it delivers great value at $8.15 with a 3.4/5 average rating.",
+  "features": [
+    "no added sugar",
+    "non-GMO",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "IronCore Camping Tent",
+  "brand": "IronCore",
+  "category": "Sports",
+  "price": 270.85,
+  "rating": 4.2,
+  "description": "The IronCore Camping Tent is a top pick in sports, known for quick-dry material and non-slip grip. Customers say it delivers great value at $270.85 with a 4.2/5 average rating.",
+  "features": [
+    "quick-dry material",
+    "non-slip grip",
+    "weatherproof"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PeakForm Cycling Helmet",
+  "brand": "PeakForm",
+  "category": "Sports",
+  "price": 64.91,
+  "rating": 4.1,
+  "description": "The PeakForm Cycling Helmet is a top pick in sports, known for quick-dry material and shock absorbing. Customers say it delivers great value at $64.91 with a 4.1/5 average rating.",
+  "features": [
+    "quick-dry material",
+    "shock absorbing",
+    "adjustable resistance"
+  ],
+  "in_stock": true
+}

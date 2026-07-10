@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Hair Straightener",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 94.18,
+  "rating": 4.6,
+  "description": "The DermaCare Hair Straightener is a top pick in beauty, known for travel size available and all skin types. Customers say it delivers great value at $94.18 with a 4.6/5 average rating.",
+  "features": [
+    "travel size available",
+    "all skin types",
+    "long-lasting"
+  ],
+  "in_stock": true
+}

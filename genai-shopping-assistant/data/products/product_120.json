@@ -1,0 +1,14 @@
+{
+  "name": "GreenLeaf Herbal Tea Set",
+  "brand": "GreenLeaf",
+  "category": "Grocery",
+  "price": 20.6,
+  "rating": 3.8,
+  "description": "The GreenLeaf Herbal Tea Set is a top pick in grocery, known for no added sugar and organic. Customers say it delivers great value at $20.60 with a 3.8/5 average rating.",
+  "features": [
+    "no added sugar",
+    "organic",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

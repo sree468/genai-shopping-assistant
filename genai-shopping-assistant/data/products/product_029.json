@@ -1,0 +1,14 @@
+{
+  "name": "TrailBound Fitness Tracker",
+  "brand": "TrailBound",
+  "category": "Sports",
+  "price": 76.19,
+  "rating": 3.7,
+  "description": "The TrailBound Fitness Tracker is a top pick in sports, known for lightweight and shock absorbing. Customers say it delivers great value at $76.19 with a 3.7/5 average rating.",
+  "features": [
+    "lightweight",
+    "shock absorbing",
+    "quick-dry material"
+  ],
+  "in_stock": true
+}

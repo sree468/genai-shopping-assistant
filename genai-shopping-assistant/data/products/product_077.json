@@ -1,0 +1,14 @@
+{
+  "name": "SummitGear Hiking Backpack",
+  "brand": "SummitGear",
+  "category": "Sports",
+  "price": 169.13,
+  "rating": 4.7,
+  "description": "The SummitGear Hiking Backpack is a top pick in sports, known for shock absorbing and weatherproof. Customers say it delivers great value at $169.13 with a 4.7/5 average rating.",
+  "features": [
+    "shock absorbing",
+    "weatherproof",
+    "quick-dry material"
+  ],
+  "in_stock": true
+}

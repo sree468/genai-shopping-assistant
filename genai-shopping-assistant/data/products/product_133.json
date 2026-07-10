@@ -1,0 +1,14 @@
+{
+  "name": "PeakForm Yoga Mat",
+  "brand": "PeakForm",
+  "category": "Sports",
+  "price": 114.88,
+  "rating": 4.2,
+  "description": "The PeakForm Yoga Mat is a top pick in sports, known for lightweight and non-slip grip. Customers say it delivers great value at $114.88 with a 4.2/5 average rating.",
+  "features": [
+    "lightweight",
+    "non-slip grip",
+    "shock absorbing"
+  ],
+  "in_stock": true
+}

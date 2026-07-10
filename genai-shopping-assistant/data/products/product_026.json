@@ -1,0 +1,14 @@
+{
+  "name": "StrideCo Winter Coat",
+  "brand": "StrideCo",
+  "category": "Fashion",
+  "price": 194.65,
+  "rating": 3.5,
+  "description": "The StrideCo Winter Coat is a top pick in fashion, known for UV protection and breathable fabric. Customers say it delivers great value at $194.65 with a 3.5/5 average rating.",
+  "features": [
+    "UV protection",
+    "breathable fabric",
+    "adjustable straps"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Moisturizer",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 116.53,
+  "rating": 4.2,
+  "description": "The DermaCare Moisturizer is a top pick in beauty, known for long-lasting and fragrance-free. Customers say it delivers great value at $116.53 with a 4.2/5 average rating.",
+  "features": [
+    "long-lasting",
+    "fragrance-free",
+    "travel size available"
+  ],
+  "in_stock": true
+}

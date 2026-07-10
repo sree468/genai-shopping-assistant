@@ -1,0 +1,14 @@
+{
+  "name": "Northline Sneakers",
+  "brand": "Northline",
+  "category": "Fashion",
+  "price": 139.95,
+  "rating": 3.4,
+  "description": "The Northline Sneakers is a top pick in fashion, known for slim fit and UV protection. Customers say it delivers great value at $139.95 with a 3.4/5 average rating.",
+  "features": [
+    "slim fit",
+    "UV protection",
+    "breathable fabric"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Harvest & Co Organic Coffee Beans",
+  "brand": "Harvest & Co",
+  "category": "Grocery",
+  "price": 28.16,
+  "rating": 4.0,
+  "description": "The Harvest & Co Organic Coffee Beans is a top pick in grocery, known for resealable packaging and non-GMO. Customers say it delivers great value at $28.16 with a 4.0/5 average rating.",
+  "features": [
+    "resealable packaging",
+    "non-GMO",
+    "organic"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "HearthHome Coffee Maker",
+  "brand": "HearthHome",
+  "category": "Home",
+  "price": 343.92,
+  "rating": 4.2,
+  "description": "The HearthHome Coffee Maker is a top pick in home, known for quiet operation and eco-friendly materials. Customers say it delivers great value at $343.92 with a 4.2/5 average rating.",
+  "features": [
+    "quiet operation",
+    "eco-friendly materials",
+    "easy to clean"
+  ],
+  "in_stock": true
+}

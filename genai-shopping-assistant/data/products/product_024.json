@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Sparkling Water Pack",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 18.8,
+  "rating": 4.8,
+  "description": "The Nutrivo Sparkling Water Pack is a top pick in grocery, known for organic and gluten-free. Customers say it delivers great value at $18.80 with a 4.8/5 average rating.",
+  "features": [
+    "organic",
+    "gluten-free",
+    "resealable packaging"
+  ],
+  "in_stock": true
+}

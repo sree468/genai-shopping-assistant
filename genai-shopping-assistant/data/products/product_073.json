@@ -1,0 +1,14 @@
+{
+  "name": "SoundWave Smartwatch",
+  "brand": "SoundWave",
+  "category": "Electronics",
+  "price": 419.78,
+  "rating": 4.3,
+  "description": "The SoundWave Smartwatch is a top pick in electronics, known for wireless connectivity and HD display. Customers say it delivers great value at $419.78 with a 4.3/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "HD display",
+    "fast charging"
+  ],
+  "in_stock": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Herbal Tea Set",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 6.51,
+  "rating": 4.6,
+  "description": "The Nutrivo Herbal Tea Set is a top pick in grocery, known for organic and gluten-free. Customers say it delivers great value at $6.51 with a 4.6/5 average rating.",
+  "features": [
+    "organic",
+    "gluten-free",
+    "non-GMO"
+  ],
+  "in_stock": true
+}

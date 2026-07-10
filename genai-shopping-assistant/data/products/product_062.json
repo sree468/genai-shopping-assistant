@@ -1,0 +1,14 @@
+{
+  "name": "Cobblestone Books History Book",
+  "brand": "Cobblestone Books",
+  "category": "Books",
+  "price": 16.6,
+  "rating": 3.9,
+  "description": "The Cobblestone Books History Book is a top pick in books, known for beginner friendly and bestseller. Customers say it delivers great value at $16.60 with a 3.9/5 average rating.",
+  "features": [
+    "beginner friendly",
+    "bestseller",
+    "illustrated edition"
+  ],
+  "in_stock": true
+}

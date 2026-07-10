@@ -1,0 +1,14 @@
+{
+  "name": "OakAndIron Coffee Maker",
+  "brand": "OakAndIron",
+  "category": "Home",
+  "price": 496.49,
+  "rating": 3.9,
+  "description": "The OakAndIron Coffee Maker is a top pick in home, known for eco-friendly materials and compact design. Customers say it delivers great value at $496.49 with a 3.9/5 average rating.",
+  "features": [
+    "eco-friendly materials",
+    "compact design",
+    "easy to clean"
+  ],
+  "in_stock": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "GreenLeaf Sparkling Water Pack",
+  "brand": "GreenLeaf",
+  "category": "Grocery",
+  "price": 17.9,
+  "rating": 3.5,
+  "description": "The GreenLeaf Sparkling Water Pack is a top pick in grocery, known for non-GMO and organic. Customers say it delivers great value at $17.90 with a 3.5/5 average rating.",
+  "features": [
+    "non-GMO",
+    "organic",
+    "no added sugar"
+  ],
+  "in_stock": true
+}

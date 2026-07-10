@@ -1,0 +1,14 @@
+{
+  "name": "PureSkin Electric Razor",
+  "brand": "PureSkin",
+  "category": "Beauty",
+  "price": 115.21,
+  "rating": 3.9,
+  "description": "The PureSkin Electric Razor is a top pick in beauty, known for cruelty-free and long-lasting. Customers say it delivers great value at $115.21 with a 3.9/5 average rating.",
+  "features": [
+    "cruelty-free",
+    "long-lasting",
+    "all skin types"
+  ],
+  "in_stock": true
+}

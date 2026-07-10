@@ -1,0 +1,14 @@
+{
+  "name": "Glow Lab Moisturizer",
+  "brand": "Glow Lab",
+  "category": "Beauty",
+  "price": 26.44,
+  "rating": 3.4,
+  "description": "The Glow Lab Moisturizer is a top pick in beauty, known for long-lasting and fragrance-free. Customers say it delivers great value at $26.44 with a 3.4/5 average rating.",
+  "features": [
+    "long-lasting",
+    "fragrance-free",
+    "all skin types"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Glow Lab Makeup Palette",
+  "brand": "Glow Lab",
+  "category": "Beauty",
+  "price": 91.2,
+  "rating": 4.9,
+  "description": "The Glow Lab Makeup Palette is a top pick in beauty, known for all skin types and dermatologist tested. Customers say it delivers great value at $91.20 with a 4.9/5 average rating.",
+  "features": [
+    "all skin types",
+    "dermatologist tested",
+    "travel size available"
+  ],
+  "in_stock": true
+}

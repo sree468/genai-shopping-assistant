@@ -1,0 +1,14 @@
+{
+  "name": "PlayNest Building Block Set",
+  "brand": "PlayNest",
+  "category": "Toys",
+  "price": 11.5,
+  "rating": 4.9,
+  "description": "The PlayNest Building Block Set is a top pick in toys, known for encourages creativity and durable design. Customers say it delivers great value at $11.50 with a 4.9/5 average rating.",
+  "features": [
+    "encourages creativity",
+    "durable design",
+    "easy assembly"
+  ],
+  "in_stock": true
+}

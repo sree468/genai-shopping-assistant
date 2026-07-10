@@ -1,0 +1,14 @@
+{
+  "name": "Cobblestone Books Sci-Fi Anthology",
+  "brand": "Cobblestone Books",
+  "category": "Books",
+  "price": 6.92,
+  "rating": 3.7,
+  "description": "The Cobblestone Books Sci-Fi Anthology is a top pick in books, known for hardcover and includes workbook. Customers say it delivers great value at $6.92 with a 3.7/5 average rating.",
+  "features": [
+    "hardcover",
+    "includes workbook",
+    "bestseller"
+  ],
+  "in_stock": true
+}

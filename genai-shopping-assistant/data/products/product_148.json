@@ -1,0 +1,14 @@
+{
+  "name": "Glow Lab Makeup Palette",
+  "brand": "Glow Lab",
+  "category": "Beauty",
+  "price": 54.01,
+  "rating": 4.8,
+  "description": "The Glow Lab Makeup Palette is a top pick in beauty, known for long-lasting and cruelty-free. Customers say it delivers great value at $54.01 with a 4.8/5 average rating.",
+  "features": [
+    "long-lasting",
+    "cruelty-free",
+    "fragrance-free"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Granola Mix",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 38.83,
+  "rating": 3.9,
+  "description": "The Nutrivo Granola Mix is a top pick in grocery, known for no added sugar and organic. Customers say it delivers great value at $38.83 with a 3.9/5 average rating.",
+  "features": [
+    "no added sugar",
+    "organic",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

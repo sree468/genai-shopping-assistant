@@ -1,0 +1,14 @@
+{
+  "name": "Sunwell Farms Protein Powder",
+  "brand": "Sunwell Farms",
+  "category": "Grocery",
+  "price": 34.3,
+  "rating": 4.2,
+  "description": "The Sunwell Farms Protein Powder is a top pick in grocery, known for non-GMO and gluten-free. Customers say it delivers great value at $34.30 with a 4.2/5 average rating.",
+  "features": [
+    "non-GMO",
+    "gluten-free",
+    "no added sugar"
+  ],
+  "in_stock": true
+}

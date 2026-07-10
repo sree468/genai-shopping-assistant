@@ -1,0 +1,14 @@
+{
+  "name": "Northline Denim Jacket",
+  "brand": "Northline",
+  "category": "Fashion",
+  "price": 104.21,
+  "rating": 4.5,
+  "description": "The Northline Denim Jacket is a top pick in fashion, known for hand-stitched and slim fit. Customers say it delivers great value at $104.21 with a 4.5/5 average rating.",
+  "features": [
+    "hand-stitched",
+    "slim fit",
+    "machine washable"
+  ],
+  "in_stock": false
+}

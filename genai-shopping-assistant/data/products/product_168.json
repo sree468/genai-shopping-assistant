@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Protein Powder",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 20.66,
+  "rating": 4.3,
+  "description": "The Nutrivo Protein Powder is a top pick in grocery, known for gluten-free and organic. Customers say it delivers great value at $20.66 with a 4.3/5 average rating.",
+  "features": [
+    "gluten-free",
+    "organic",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

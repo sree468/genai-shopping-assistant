@@ -1,0 +1,14 @@
+{
+  "name": "Meridian House Cookbook",
+  "brand": "Meridian House",
+  "category": "Books",
+  "price": 40.38,
+  "rating": 3.8,
+  "description": "The Meridian House Cookbook is a top pick in books, known for award winning and beginner friendly. Customers say it delivers great value at $40.38 with a 3.8/5 average rating.",
+  "features": [
+    "award winning",
+    "beginner friendly",
+    "includes workbook"
+  ],
+  "in_stock": true
+}

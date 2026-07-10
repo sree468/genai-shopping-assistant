@@ -1,0 +1,14 @@
+{
+  "name": "Sunwell Farms Granola Mix",
+  "brand": "Sunwell Farms",
+  "category": "Grocery",
+  "price": 10.04,
+  "rating": 4.4,
+  "description": "The Sunwell Farms Granola Mix is a top pick in grocery, known for gluten-free and organic. Customers say it delivers great value at $10.04 with a 4.4/5 average rating.",
+  "features": [
+    "gluten-free",
+    "organic",
+    "non-GMO"
+  ],
+  "in_stock": true
+}

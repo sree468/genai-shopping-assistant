@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Electric Razor",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 28.35,
+  "rating": 3.8,
+  "description": "The DermaCare Electric Razor is a top pick in beauty, known for fragrance-free and dermatologist tested. Customers say it delivers great value at $28.35 with a 3.8/5 average rating.",
+  "features": [
+    "fragrance-free",
+    "dermatologist tested",
+    "long-lasting"
+  ],
+  "in_stock": true
+}

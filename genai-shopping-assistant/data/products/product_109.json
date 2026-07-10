@@ -1,0 +1,14 @@
+{
+  "name": "IronCore Hiking Backpack",
+  "brand": "IronCore",
+  "category": "Sports",
+  "price": 295.07,
+  "rating": 4.3,
+  "description": "The IronCore Hiking Backpack is a top pick in sports, known for quick-dry material and adjustable resistance. Customers say it delivers great value at $295.07 with a 4.3/5 average rating.",
+  "features": [
+    "quick-dry material",
+    "adjustable resistance",
+    "non-slip grip"
+  ],
+  "in_stock": true
+}

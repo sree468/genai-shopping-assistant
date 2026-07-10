@@ -1,0 +1,14 @@
+{
+  "name": "Cobblestone Books Children's Picture Book",
+  "brand": "Cobblestone Books",
+  "category": "Books",
+  "price": 23.15,
+  "rating": 4.2,
+  "description": "The Cobblestone Books Children's Picture Book is a top pick in books, known for includes workbook and hardcover. Customers say it delivers great value at $23.15 with a 4.2/5 average rating.",
+  "features": [
+    "includes workbook",
+    "hardcover",
+    "beginner friendly"
+  ],
+  "in_stock": true
+}

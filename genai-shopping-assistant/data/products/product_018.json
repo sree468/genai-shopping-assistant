@@ -1,0 +1,14 @@
+{
+  "name": "Urban Thread Denim Jacket",
+  "brand": "Urban Thread",
+  "category": "Fashion",
+  "price": 165.85,
+  "rating": 4.7,
+  "description": "The Urban Thread Denim Jacket is a top pick in fashion, known for UV protection and slim fit. Customers say it delivers great value at $165.85 with a 4.7/5 average rating.",
+  "features": [
+    "UV protection",
+    "slim fit",
+    "adjustable straps"
+  ],
+  "in_stock": true
+}

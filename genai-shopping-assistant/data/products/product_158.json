@@ -1,0 +1,14 @@
+{
+  "name": "Cobblestone Books Business Strategy Book",
+  "brand": "Cobblestone Books",
+  "category": "Books",
+  "price": 11.04,
+  "rating": 4.3,
+  "description": "The Cobblestone Books Business Strategy Book is a top pick in books, known for illustrated edition and beginner friendly. Customers say it delivers great value at $11.04 with a 4.3/5 average rating.",
+  "features": [
+    "illustrated edition",
+    "beginner friendly",
+    "hardcover"
+  ],
+  "in_stock": false
+}

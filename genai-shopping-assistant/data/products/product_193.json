@@ -1,0 +1,14 @@
+{
+  "name": "SoundWave Bluetooth Speaker",
+  "brand": "SoundWave",
+  "category": "Electronics",
+  "price": 329.32,
+  "rating": 4.9,
+  "description": "The SoundWave Bluetooth Speaker is a top pick in electronics, known for long battery life and water resistant. Customers say it delivers great value at $329.32 with a 4.9/5 average rating.",
+  "features": [
+    "long battery life",
+    "water resistant",
+    "fast charging"
+  ],
+  "in_stock": false
+}

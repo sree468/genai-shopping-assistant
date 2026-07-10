@@ -1,0 +1,14 @@
+{
+  "name": "PlayNest Plush Toy",
+  "brand": "PlayNest",
+  "category": "Toys",
+  "price": 19.18,
+  "rating": 3.8,
+  "description": "The PlayNest Plush Toy is a top pick in toys, known for non-toxic materials and encourages creativity. Customers say it delivers great value at $19.18 with a 3.8/5 average rating.",
+  "features": [
+    "non-toxic materials",
+    "encourages creativity",
+    "ages 3+"
+  ],
+  "in_stock": false
+}

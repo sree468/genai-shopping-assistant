@@ -1,0 +1,14 @@
+{
+  "name": "Urban Thread Running Shoes",
+  "brand": "Urban Thread",
+  "category": "Fashion",
+  "price": 21.84,
+  "rating": 3.7,
+  "description": "The Urban Thread Running Shoes is a top pick in fashion, known for slim fit and UV protection. Customers say it delivers great value at $21.84 with a 3.7/5 average rating.",
+  "features": [
+    "slim fit",
+    "UV protection",
+    "machine washable"
+  ],
+  "in_stock": true
+}

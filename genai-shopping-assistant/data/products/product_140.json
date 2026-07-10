@@ -1,0 +1,14 @@
+{
+  "name": "Aurelia Facial Cleanser",
+  "brand": "Aurelia",
+  "category": "Beauty",
+  "price": 9.77,
+  "rating": 3.8,
+  "description": "The Aurelia Facial Cleanser is a top pick in beauty, known for dermatologist tested and long-lasting. Customers say it delivers great value at $9.77 with a 3.8/5 average rating.",
+  "features": [
+    "dermatologist tested",
+    "long-lasting",
+    "cruelty-free"
+  ],
+  "in_stock": true
+}

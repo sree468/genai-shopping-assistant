@@ -1,0 +1,14 @@
+{
+  "name": "TrailBound Camping Tent",
+  "brand": "TrailBound",
+  "category": "Sports",
+  "price": 307.07,
+  "rating": 3.5,
+  "description": "The TrailBound Camping Tent is a top pick in sports, known for adjustable resistance and weatherproof. Customers say it delivers great value at $307.07 with a 3.5/5 average rating.",
+  "features": [
+    "adjustable resistance",
+    "weatherproof",
+    "lightweight"
+  ],
+  "in_stock": true
+}

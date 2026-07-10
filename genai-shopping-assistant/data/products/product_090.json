@@ -1,0 +1,14 @@
+{
+  "name": "Urban Thread Sunglasses",
+  "brand": "Urban Thread",
+  "category": "Fashion",
+  "price": 218.77,
+  "rating": 3.6,
+  "description": "The Urban Thread Sunglasses is a top pick in fashion, known for machine washable and UV protection. Customers say it delivers great value at $218.77 with a 3.6/5 average rating.",
+  "features": [
+    "machine washable",
+    "UV protection",
+    "slim fit"
+  ],
+  "in_stock": true
+}

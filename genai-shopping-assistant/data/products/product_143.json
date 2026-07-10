@@ -1,0 +1,14 @@
+{
+  "name": "PlayNest Remote Control Car",
+  "brand": "PlayNest",
+  "category": "Toys",
+  "price": 66.99,
+  "rating": 4.1,
+  "description": "The PlayNest Remote Control Car is a top pick in toys, known for educational and encourages creativity. Customers say it delivers great value at $66.99 with a 4.1/5 average rating.",
+  "features": [
+    "educational",
+    "encourages creativity",
+    "non-toxic materials"
+  ],
+  "in_stock": false
+}

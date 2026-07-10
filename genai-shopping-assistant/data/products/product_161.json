@@ -1,0 +1,14 @@
+{
+  "name": "SoundWave Action Camera",
+  "brand": "SoundWave",
+  "category": "Electronics",
+  "price": 210.6,
+  "rating": 3.6,
+  "description": "The SoundWave Action Camera is a top pick in electronics, known for wireless connectivity and touch controls. Customers say it delivers great value at $210.60 with a 3.6/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "touch controls",
+    "HD display"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PixelPro Smartwatch",
+  "brand": "PixelPro",
+  "category": "Electronics",
+  "price": 207.78,
+  "rating": 4.8,
+  "description": "The PixelPro Smartwatch is a top pick in electronics, known for wireless connectivity and water resistant. Customers say it delivers great value at $207.78 with a 4.8/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "water resistant",
+    "HD display"
+  ],
+  "in_stock": true
+}

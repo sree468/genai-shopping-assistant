@@ -1,0 +1,14 @@
+{
+  "name": "Urban Thread Backpack",
+  "brand": "Urban Thread",
+  "category": "Fashion",
+  "price": 119.92,
+  "rating": 3.7,
+  "description": "The Urban Thread Backpack is a top pick in fashion, known for slim fit and machine washable. Customers say it delivers great value at $119.92 with a 3.7/5 average rating.",
+  "features": [
+    "slim fit",
+    "machine washable",
+    "UV protection"
+  ],
+  "in_stock": true
+}

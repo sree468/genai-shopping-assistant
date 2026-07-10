@@ -1,0 +1,14 @@
+{
+  "name": "NovaTech Action Camera",
+  "brand": "NovaTech",
+  "category": "Electronics",
+  "price": 345.23,
+  "rating": 4.8,
+  "description": "The NovaTech Action Camera is a top pick in electronics, known for wireless connectivity and touch controls. Customers say it delivers great value at $345.23 with a 4.8/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "touch controls",
+    "fast charging"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Moisturizer",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 48.54,
+  "rating": 5.0,
+  "description": "The DermaCare Moisturizer is a top pick in beauty, known for dermatologist tested and travel size available. Customers say it delivers great value at $48.54 with a 5.0/5 average rating.",
+  "features": [
+    "dermatologist tested",
+    "travel size available",
+    "long-lasting"
+  ],
+  "in_stock": true
+}

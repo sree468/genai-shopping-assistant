@@ -1,0 +1,14 @@
+{
+  "name": "Willow & Pine Children's Picture Book",
+  "brand": "Willow & Pine",
+  "category": "Books",
+  "price": 23.23,
+  "rating": 4.5,
+  "description": "The Willow & Pine Children's Picture Book is a top pick in books, known for beginner friendly and award winning. Customers say it delivers great value at $23.23 with a 4.5/5 average rating.",
+  "features": [
+    "beginner friendly",
+    "award winning",
+    "illustrated edition"
+  ],
+  "in_stock": true
+}

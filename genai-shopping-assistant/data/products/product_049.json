@@ -1,0 +1,14 @@
+{
+  "name": "CircuitOne Action Camera",
+  "brand": "CircuitOne",
+  "category": "Electronics",
+  "price": 282.64,
+  "rating": 4.2,
+  "description": "The CircuitOne Action Camera is a top pick in electronics, known for wireless connectivity and touch controls. Customers say it delivers great value at $282.64 with a 4.2/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "touch controls",
+    "fast charging"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "IronCore Cycling Helmet",
+  "brand": "IronCore",
+  "category": "Sports",
+  "price": 151.14,
+  "rating": 4.2,
+  "description": "The IronCore Cycling Helmet is a top pick in sports, known for quick-dry material and adjustable resistance. Customers say it delivers great value at $151.14 with a 4.2/5 average rating.",
+  "features": [
+    "quick-dry material",
+    "adjustable resistance",
+    "lightweight"
+  ],
+  "in_stock": true
+}

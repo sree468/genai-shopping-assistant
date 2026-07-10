@@ -1,0 +1,14 @@
+{
+  "name": "Meridian House History Book",
+  "brand": "Meridian House",
+  "category": "Books",
+  "price": 28.52,
+  "rating": 4.5,
+  "description": "The Meridian House History Book is a top pick in books, known for bestseller and illustrated edition. Customers say it delivers great value at $28.52 with a 4.5/5 average rating.",
+  "features": [
+    "bestseller",
+    "illustrated edition",
+    "hardcover"
+  ],
+  "in_stock": true
+}

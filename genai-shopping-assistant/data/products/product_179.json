@@ -1,0 +1,14 @@
+{
+  "name": "PureAir Table Lamp",
+  "brand": "PureAir",
+  "category": "Home",
+  "price": 276.33,
+  "rating": 3.9,
+  "description": "The PureAir Table Lamp is a top pick in home, known for compact design and app controlled. Customers say it delivers great value at $276.33 with a 3.9/5 average rating.",
+  "features": [
+    "compact design",
+    "app controlled",
+    "easy to clean"
+  ],
+  "in_stock": true
+}

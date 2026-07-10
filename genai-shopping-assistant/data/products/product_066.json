@@ -1,0 +1,14 @@
+{
+  "name": "Aster & Vale Sunglasses",
+  "brand": "Aster & Vale",
+  "category": "Fashion",
+  "price": 116.1,
+  "rating": 4.0,
+  "description": "The Aster & Vale Sunglasses is a top pick in fashion, known for adjustable straps and machine washable. Customers say it delivers great value at $116.10 with a 4.0/5 average rating.",
+  "features": [
+    "adjustable straps",
+    "machine washable",
+    "slim fit"
+  ],
+  "in_stock": true
+}

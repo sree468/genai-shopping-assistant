@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Makeup Palette",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 107.62,
+  "rating": 4.6,
+  "description": "The DermaCare Makeup Palette is a top pick in beauty, known for long-lasting and fragrance-free. Customers say it delivers great value at $107.62 with a 4.6/5 average rating.",
+  "features": [
+    "long-lasting",
+    "fragrance-free",
+    "dermatologist tested"
+  ],
+  "in_stock": true
+}

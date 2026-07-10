@@ -1,0 +1,14 @@
+{
+  "name": "StrideCo Wool Sweater",
+  "brand": "StrideCo",
+  "category": "Fashion",
+  "price": 170.4,
+  "rating": 3.5,
+  "description": "The StrideCo Wool Sweater is a top pick in fashion, known for breathable fabric and hand-stitched. Customers say it delivers great value at $170.40 with a 3.5/5 average rating.",
+  "features": [
+    "breathable fabric",
+    "hand-stitched",
+    "machine washable"
+  ],
+  "in_stock": true
+}

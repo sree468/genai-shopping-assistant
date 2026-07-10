@@ -1,0 +1,14 @@
+{
+  "name": "LumenLiving Smart Thermostat",
+  "brand": "LumenLiving",
+  "category": "Home",
+  "price": 456.08,
+  "rating": 3.9,
+  "description": "The LumenLiving Smart Thermostat is a top pick in home, known for quiet operation and compact design. Customers say it delivers great value at $456.08 with a 3.9/5 average rating.",
+  "features": [
+    "quiet operation",
+    "compact design",
+    "easy to clean"
+  ],
+  "in_stock": true
+}

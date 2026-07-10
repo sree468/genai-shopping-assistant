@@ -1,0 +1,14 @@
+{
+  "name": "Harvest & Co Granola Mix",
+  "brand": "Harvest & Co",
+  "category": "Grocery",
+  "price": 22.6,
+  "rating": 3.7,
+  "description": "The Harvest & Co Granola Mix is a top pick in grocery, known for non-GMO and sustainably sourced. Customers say it delivers great value at $22.60 with a 3.7/5 average rating.",
+  "features": [
+    "non-GMO",
+    "sustainably sourced",
+    "resealable packaging"
+  ],
+  "in_stock": true
+}

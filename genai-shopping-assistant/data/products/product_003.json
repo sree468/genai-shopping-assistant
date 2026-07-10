@@ -1,0 +1,14 @@
+{
+  "name": "PureAir Smart Thermostat",
+  "brand": "PureAir",
+  "category": "Home",
+  "price": 235.62,
+  "rating": 3.8,
+  "description": "The PureAir Smart Thermostat is a top pick in home, known for energy efficient and app controlled. Customers say it delivers great value at $235.62 with a 3.8/5 average rating.",
+  "features": [
+    "energy efficient",
+    "app controlled",
+    "compact design"
+  ],
+  "in_stock": true
+}

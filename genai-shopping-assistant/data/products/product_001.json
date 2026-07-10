@@ -1,0 +1,14 @@
+{
+  "name": "SoundWave Smartwatch",
+  "brand": "SoundWave",
+  "category": "Electronics",
+  "price": 340.16,
+  "rating": 3.8,
+  "description": "The SoundWave Smartwatch is a top pick in electronics, known for fast charging and long battery life. Customers say it delivers great value at $340.16 with a 3.8/5 average rating.",
+  "features": [
+    "fast charging",
+    "long battery life",
+    "touch controls"
+  ],
+  "in_stock": true
+}

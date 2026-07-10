@@ -1,0 +1,14 @@
+{
+  "name": "Willow & Pine Mystery Novel",
+  "brand": "Willow & Pine",
+  "category": "Books",
+  "price": 40.06,
+  "rating": 3.5,
+  "description": "The Willow & Pine Mystery Novel is a top pick in books, known for award winning and hardcover. Customers say it delivers great value at $40.06 with a 3.5/5 average rating.",
+  "features": [
+    "award winning",
+    "hardcover",
+    "beginner friendly"
+  ],
+  "in_stock": true
+}

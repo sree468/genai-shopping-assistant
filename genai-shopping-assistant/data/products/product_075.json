@@ -1,0 +1,14 @@
+{
+  "name": "OakAndIron Air Purifier",
+  "brand": "OakAndIron",
+  "category": "Home",
+  "price": 275.72,
+  "rating": 4.5,
+  "description": "The OakAndIron Air Purifier is a top pick in home, known for energy efficient and quiet operation. Customers say it delivers great value at $275.72 with a 4.5/5 average rating.",
+  "features": [
+    "energy efficient",
+    "quiet operation",
+    "easy to clean"
+  ],
+  "in_stock": false
+}

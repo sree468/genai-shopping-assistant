@@ -1,0 +1,14 @@
+{
+  "name": "IronCore Fitness Tracker",
+  "brand": "IronCore",
+  "category": "Sports",
+  "price": 324.42,
+  "rating": 4.2,
+  "description": "The IronCore Fitness Tracker is a top pick in sports, known for lightweight and adjustable resistance. Customers say it delivers great value at $324.42 with a 4.2/5 average rating.",
+  "features": [
+    "lightweight",
+    "adjustable resistance",
+    "quick-dry material"
+  ],
+  "in_stock": true
+}

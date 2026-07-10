@@ -1,0 +1,14 @@
+{
+  "name": "Northline Winter Coat",
+  "brand": "Northline",
+  "category": "Fashion",
+  "price": 58.24,
+  "rating": 4.0,
+  "description": "The Northline Winter Coat is a top pick in fashion, known for machine washable and breathable fabric. Customers say it delivers great value at $58.24 with a 4.0/5 average rating.",
+  "features": [
+    "machine washable",
+    "breathable fabric",
+    "slim fit"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Perfume",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 67.02,
+  "rating": 3.9,
+  "description": "The DermaCare Perfume is a top pick in beauty, known for dermatologist tested and long-lasting. Customers say it delivers great value at $67.02 with a 3.9/5 average rating.",
+  "features": [
+    "dermatologist tested",
+    "long-lasting",
+    "cruelty-free"
+  ],
+  "in_stock": false
+}

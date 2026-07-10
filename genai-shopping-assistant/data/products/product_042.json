@@ -1,0 +1,14 @@
+{
+  "name": "Northline Denim Jacket",
+  "brand": "Northline",
+  "category": "Fashion",
+  "price": 175.58,
+  "rating": 4.8,
+  "description": "The Northline Denim Jacket is a top pick in fashion, known for machine washable and UV protection. Customers say it delivers great value at $175.58 with a 4.8/5 average rating.",
+  "features": [
+    "machine washable",
+    "UV protection",
+    "slim fit"
+  ],
+  "in_stock": true
+}

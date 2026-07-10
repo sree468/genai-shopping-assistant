@@ -1,0 +1,14 @@
+{
+  "name": "Aster & Vale Running Shoes",
+  "brand": "Aster & Vale",
+  "category": "Fashion",
+  "price": 91.59,
+  "rating": 4.6,
+  "description": "The Aster & Vale Running Shoes is a top pick in fashion, known for machine washable and UV protection. Customers say it delivers great value at $91.59 with a 4.6/5 average rating.",
+  "features": [
+    "machine washable",
+    "UV protection",
+    "hand-stitched"
+  ],
+  "in_stock": true
+}

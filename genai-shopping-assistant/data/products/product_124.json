@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Vitamin C Serum",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 101.28,
+  "rating": 4.8,
+  "description": "The DermaCare Vitamin C Serum is a top pick in beauty, known for dermatologist tested and travel size available. Customers say it delivers great value at $101.28 with a 4.8/5 average rating.",
+  "features": [
+    "dermatologist tested",
+    "travel size available",
+    "fragrance-free"
+  ],
+  "in_stock": true
+}

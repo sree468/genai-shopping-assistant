@@ -1,0 +1,14 @@
+{
+  "name": "Sunwell Farms Herbal Tea Set",
+  "brand": "Sunwell Farms",
+  "category": "Grocery",
+  "price": 25.42,
+  "rating": 4.7,
+  "description": "The Sunwell Farms Herbal Tea Set is a top pick in grocery, known for no added sugar and sustainably sourced. Customers say it delivers great value at $25.42 with a 4.7/5 average rating.",
+  "features": [
+    "no added sugar",
+    "sustainably sourced",
+    "organic"
+  ],
+  "in_stock": true
+}

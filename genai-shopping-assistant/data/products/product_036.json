@@ -1,0 +1,14 @@
+{
+  "name": "Glow Lab Perfume",
+  "brand": "Glow Lab",
+  "category": "Beauty",
+  "price": 82.8,
+  "rating": 4.3,
+  "description": "The Glow Lab Perfume is a top pick in beauty, known for all skin types and cruelty-free. Customers say it delivers great value at $82.80 with a 4.3/5 average rating.",
+  "features": [
+    "all skin types",
+    "cruelty-free",
+    "dermatologist tested"
+  ],
+  "in_stock": true
+}

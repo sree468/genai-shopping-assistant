@@ -1,0 +1,14 @@
+{
+  "name": "CircuitOne Bluetooth Speaker",
+  "brand": "CircuitOne",
+  "category": "Electronics",
+  "price": 79.16,
+  "rating": 3.9,
+  "description": "The CircuitOne Bluetooth Speaker is a top pick in electronics, known for long battery life and water resistant. Customers say it delivers great value at $79.16 with a 3.9/5 average rating.",
+  "features": [
+    "long battery life",
+    "water resistant",
+    "fast charging"
+  ],
+  "in_stock": true
+}

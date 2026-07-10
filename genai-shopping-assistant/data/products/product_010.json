@@ -1,0 +1,14 @@
+{
+  "name": "Northline Sneakers",
+  "brand": "Northline",
+  "category": "Fashion",
+  "price": 31.37,
+  "rating": 4.9,
+  "description": "The Northline Sneakers is a top pick in fashion, known for UV protection and hand-stitched. Customers say it delivers great value at $31.37 with a 4.9/5 average rating.",
+  "features": [
+    "UV protection",
+    "hand-stitched",
+    "slim fit"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PixelPro Action Camera",
+  "brand": "PixelPro",
+  "category": "Electronics",
+  "price": 83.48,
+  "rating": 3.9,
+  "description": "The PixelPro Action Camera is a top pick in electronics, known for wireless connectivity and fast charging. Customers say it delivers great value at $83.48 with a 3.9/5 average rating.",
+  "features": [
+    "wireless connectivity",
+    "fast charging",
+    "HD display"
+  ],
+  "in_stock": true
+}

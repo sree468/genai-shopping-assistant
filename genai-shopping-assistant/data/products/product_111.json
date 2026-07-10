@@ -1,0 +1,14 @@
+{
+  "name": "PlayNest Plush Toy",
+  "brand": "PlayNest",
+  "category": "Toys",
+  "price": 28.68,
+  "rating": 4.6,
+  "description": "The PlayNest Plush Toy is a top pick in toys, known for educational and encourages creativity. Customers say it delivers great value at $28.68 with a 4.6/5 average rating.",
+  "features": [
+    "educational",
+    "encourages creativity",
+    "easy assembly"
+  ],
+  "in_stock": true
+}

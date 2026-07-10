@@ -1,0 +1,14 @@
+{
+  "name": "DermaCare Moisturizer",
+  "brand": "DermaCare",
+  "category": "Beauty",
+  "price": 19.82,
+  "rating": 4.9,
+  "description": "The DermaCare Moisturizer is a top pick in beauty, known for all skin types and long-lasting. Customers say it delivers great value at $19.82 with a 4.9/5 average rating.",
+  "features": [
+    "all skin types",
+    "long-lasting",
+    "dermatologist tested"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PureSkin Perfume",
+  "brand": "PureSkin",
+  "category": "Beauty",
+  "price": 27.43,
+  "rating": 3.6,
+  "description": "The PureSkin Perfume is a top pick in beauty, known for all skin types and cruelty-free. Customers say it delivers great value at $27.43 with a 3.6/5 average rating.",
+  "features": [
+    "all skin types",
+    "cruelty-free",
+    "dermatologist tested"
+  ],
+  "in_stock": true
+}

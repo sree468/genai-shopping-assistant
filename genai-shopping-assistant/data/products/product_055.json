@@ -1,0 +1,14 @@
+{
+  "name": "Wonderworks Board Game",
+  "brand": "Wonderworks",
+  "category": "Toys",
+  "price": 17.47,
+  "rating": 4.9,
+  "description": "The Wonderworks Board Game is a top pick in toys, known for non-toxic materials and encourages creativity. Customers say it delivers great value at $17.47 with a 4.9/5 average rating.",
+  "features": [
+    "non-toxic materials",
+    "encourages creativity",
+    "ages 3+"
+  ],
+  "in_stock": true
+}

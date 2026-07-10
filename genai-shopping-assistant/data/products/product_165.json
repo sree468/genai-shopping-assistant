@@ -1,0 +1,14 @@
+{
+  "name": "SummitGear Fitness Tracker",
+  "brand": "SummitGear",
+  "category": "Sports",
+  "price": 267.0,
+  "rating": 4.6,
+  "description": "The SummitGear Fitness Tracker is a top pick in sports, known for adjustable resistance and shock absorbing. Customers say it delivers great value at $267.00 with a 4.6/5 average rating.",
+  "features": [
+    "adjustable resistance",
+    "shock absorbing",
+    "weatherproof"
+  ],
+  "in_stock": true
+}

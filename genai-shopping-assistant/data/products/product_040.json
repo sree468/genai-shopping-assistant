@@ -1,0 +1,14 @@
+{
+  "name": "Harvest & Co Dark Chocolate Bar",
+  "brand": "Harvest & Co",
+  "category": "Grocery",
+  "price": 8.03,
+  "rating": 4.9,
+  "description": "The Harvest & Co Dark Chocolate Bar is a top pick in grocery, known for gluten-free and non-GMO. Customers say it delivers great value at $8.03 with a 4.9/5 average rating.",
+  "features": [
+    "gluten-free",
+    "non-GMO",
+    "organic"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Glow Lab Hair Straightener",
+  "brand": "Glow Lab",
+  "category": "Beauty",
+  "price": 77.16,
+  "rating": 3.8,
+  "description": "The Glow Lab Hair Straightener is a top pick in beauty, known for all skin types and fragrance-free. Customers say it delivers great value at $77.16 with a 3.8/5 average rating.",
+  "features": [
+    "all skin types",
+    "fragrance-free",
+    "dermatologist tested"
+  ],
+  "in_stock": true
+}

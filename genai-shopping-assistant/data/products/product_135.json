@@ -1,0 +1,14 @@
+{
+  "name": "Kinderplay Board Game",
+  "brand": "Kinderplay",
+  "category": "Toys",
+  "price": 65.22,
+  "rating": 3.7,
+  "description": "The Kinderplay Board Game is a top pick in toys, known for easy assembly and non-toxic materials. Customers say it delivers great value at $65.22 with a 3.7/5 average rating.",
+  "features": [
+    "easy assembly",
+    "non-toxic materials",
+    "encourages creativity"
+  ],
+  "in_stock": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TrailBound Yoga Mat",
+  "brand": "TrailBound",
+  "category": "Sports",
+  "price": 210.89,
+  "rating": 3.4,
+  "description": "The TrailBound Yoga Mat is a top pick in sports, known for quick-dry material and lightweight. Customers say it delivers great value at $210.89 with a 3.4/5 average rating.",
+  "features": [
+    "quick-dry material",
+    "lightweight",
+    "non-slip grip"
+  ],
+  "in_stock": false
+}

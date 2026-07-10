@@ -1,0 +1,14 @@
+{
+  "name": "Aurelia Moisturizer",
+  "brand": "Aurelia",
+  "category": "Beauty",
+  "price": 57.07,
+  "rating": 4.2,
+  "description": "The Aurelia Moisturizer is a top pick in beauty, known for cruelty-free and dermatologist tested. Customers say it delivers great value at $57.07 with a 4.2/5 average rating.",
+  "features": [
+    "cruelty-free",
+    "dermatologist tested",
+    "travel size available"
+  ],
+  "in_stock": false
+}

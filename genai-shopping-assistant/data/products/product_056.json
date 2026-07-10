@@ -1,0 +1,14 @@
+{
+  "name": "Harvest & Co Herbal Tea Set",
+  "brand": "Harvest & Co",
+  "category": "Grocery",
+  "price": 5.66,
+  "rating": 5.0,
+  "description": "The Harvest & Co Herbal Tea Set is a top pick in grocery, known for resealable packaging and organic. Customers say it delivers great value at $5.66 with a 5.0/5 average rating.",
+  "features": [
+    "resealable packaging",
+    "organic",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

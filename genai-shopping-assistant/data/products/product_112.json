@@ -1,0 +1,14 @@
+{
+  "name": "Nutrivo Dark Chocolate Bar",
+  "brand": "Nutrivo",
+  "category": "Grocery",
+  "price": 39.58,
+  "rating": 4.7,
+  "description": "The Nutrivo Dark Chocolate Bar is a top pick in grocery, known for gluten-free and non-GMO. Customers say it delivers great value at $39.58 with a 4.7/5 average rating.",
+  "features": [
+    "gluten-free",
+    "non-GMO",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}

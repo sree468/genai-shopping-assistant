@@ -1,0 +1,14 @@
+{
+  "name": "Harvest & Co Olive Oil",
+  "brand": "Harvest & Co",
+  "category": "Grocery",
+  "price": 26.3,
+  "rating": 4.1,
+  "description": "The Harvest & Co Olive Oil is a top pick in grocery, known for resealable packaging and gluten-free. Customers say it delivers great value at $26.30 with a 4.1/5 average rating.",
+  "features": [
+    "resealable packaging",
+    "gluten-free",
+    "no added sugar"
+  ],
+  "in_stock": true
+}

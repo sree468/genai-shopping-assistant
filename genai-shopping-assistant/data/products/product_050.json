@@ -1,0 +1,14 @@
+{
+  "name": "Urban Thread Sneakers",
+  "brand": "Urban Thread",
+  "category": "Fashion",
+  "price": 123.02,
+  "rating": 4.7,
+  "description": "The Urban Thread Sneakers is a top pick in fashion, known for adjustable straps and slim fit. Customers say it delivers great value at $123.02 with a 4.7/5 average rating.",
+  "features": [
+    "adjustable straps",
+    "slim fit",
+    "hand-stitched"
+  ],
+  "in_stock": true
+}

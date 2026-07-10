@@ -1,0 +1,14 @@
+{
+  "name": "Kinderplay Board Game",
+  "brand": "Kinderplay",
+  "category": "Toys",
+  "price": 24.43,
+  "rating": 4.5,
+  "description": "The Kinderplay Board Game is a top pick in toys, known for encourages creativity and ages 3+. Customers say it delivers great value at $24.43 with a 4.5/5 average rating.",
+  "features": [
+    "encourages creativity",
+    "ages 3+",
+    "durable design"
+  ],
+  "in_stock": false
+}

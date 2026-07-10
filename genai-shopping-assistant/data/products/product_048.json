@@ -1,0 +1,14 @@
+{
+  "name": "GreenLeaf Granola Mix",
+  "brand": "GreenLeaf",
+  "category": "Grocery",
+  "price": 24.9,
+  "rating": 5.0,
+  "description": "The GreenLeaf Granola Mix is a top pick in grocery, known for organic and gluten-free. Customers say it delivers great value at $24.90 with a 5.0/5 average rating.",
+  "features": [
+    "organic",
+    "gluten-free",
+    "sustainably sourced"
+  ],
+  "in_stock": true
+}
